@@ -9,9 +9,10 @@
 - Использование сторонних решений приветствуется при необходимости, в этом случае нужно обоснование каждого из них (почему используется именно это решение)
 - Цель приложения: минимальным количеством кода и сложности добиться качественной реализации поставленной задачи
 - Непринципиальные вопросы решаются на усмотрение разработчика (с обоснованием решения, почему так), принципиальные - уточняются по почте (при их возникновении) 
+
 ## Решение
 
- ### -Network: URLSession
- ### -Offline handle: Persistent cache
- ### -Public API - [thecatapi](https://thecatapi.com/)
- ### -Supported platforms: iPhone, iPad
+ #### -Network: URLSession
+ #### -Offline handle: Persistent cache
+ #### -Public API - [thecatapi](https://thecatapi.com/)
+ #### -Supported platforms: iPhone, iPad
