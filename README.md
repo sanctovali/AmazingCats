@@ -15,4 +15,5 @@
  #### -Network: URLSession
  #### -Offline handle: Persistent cache
  #### -Public API - [thecatapi](https://thecatapi.com/)
- #### -Supported platforms: iPhone, iPad
+ #### -Supported platforms: iOS 11.0+
+ #### -Supported devices: iPhone, iPad
