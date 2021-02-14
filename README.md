@@ -12,8 +12,10 @@
 
 ## Решение
 
+ #### -Language: Swift
  #### -Network: URLSession
  #### -Offline handle: Persistent cache
  #### -Public API - [thecatapi](https://thecatapi.com/)
  #### -Supported platforms: iOS 11.0+
  #### -Supported devices: iPhone, iPad
+ #### -Architecture: MVC
